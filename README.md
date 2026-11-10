@@ -1,5 +1,5 @@
 # CausalHeal: Self-Supervised Causal Diagnosis and Guarded Autonomous Remediation for Trustworthy SD-IoT
-https://doi.org/10.5281/zenodo.23320537
+[https://doi.org/10.5281/zenodo.23320537](https://doi.org/10.5281/zenodo.24099814)
 
 ---
 <div align="center">
