@@ -6,7 +6,7 @@ https://doi.org/10.5281/zenodo.23320537
 
 ---
 <div align="center">
-  <img src="samples/framework.png" alt="Framework" width="500", height ="500">
+  <img src="samples/methodology1.png" alt="Framework" width="500", height ="500">
 </div>
 
 
